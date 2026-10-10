@@ -1,9 +1,3 @@
-# airline-flight-price-analysis
-Power BI dashboard analyzing airline ticket prices, travel classes, stops, routes, and booking lead times.
-
-![Airline Flight Analysis Dashboard](dashboard.png)
-
-
 ✈️ Airline Flight Price Analysis Dashboard
 
 📌 Project Overview
@@ -49,43 +43,13 @@ Column| Description
 
 📊 Dashboard Preview
 
-"Airline Flight Analysis Dashboard" (dashboard.png)
+![Airline Flight Analysis Dashboard](dashboard.png)
 
 The dashboard provides a visual overview of flight pricing and travel characteristics. It includes summary metrics, airline comparisons, price analysis, and route-related visualizations.
 
 📈 Key Numerical Findings
 
-The following findings are based on the values observed in the Power BI dashboard.
-
-1. Dataset Size
-
-- Total flight records: Approximately 300,000.
-
-Insight: The dataset provides a substantial collection of flight records for comparing prices, airlines, routes, and travel characteristics.
-
-2. Overall Average Ticket Price
-
-- Average ticket price: Approximately 20,890.
-
-Insight: The overall average provides a baseline for comparing ticket prices across airlines and stop categories. Individual prices may differ depending on the airline, route, travel class, and other factors.
-
-Note: The currency should be specified after confirming the unit used in the source dataset.
-
-3. Airline Price Comparison
-
-- Airline: AirAsia.
-- Reported average ticket price: Approximately 4,090.
-
-Insight: Based on the current dashboard results, AirAsia appears to have a relatively low average ticket price compared with the overall average. This comparison should be confirmed using the same price aggregation and filter conditions across all airlines.
-
-4. Average Ticket Price by Number of Stops
-
-The dashboard shows the following average prices for each stop category:
-
-Stop Category| Average Ticket Price
-Non-stop (zero stops)| 9,375.94
-One stop| 22,900.99
-Two or more stops| 14,113.45
+T![Airline Flight Analysis Dashboard](dashboard.png)
 
 <h5>Key Insights:</h5>
 
