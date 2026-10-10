@@ -46,7 +46,7 @@ Dataset Columns
 
 📊 Dashboard Preview
 
-![Airline Flight Analysis Dashboard](dashboard.png)
+![Airline Flight Analysis Dashboard](airline_dashboard.png)
 
 The dashboard provides a visual overview of flight pricing and travel characteristics. It includes summary metrics, airline comparisons, price analysis, and route-related visualizations.
 
