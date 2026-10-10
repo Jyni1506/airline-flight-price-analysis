@@ -27,19 +27,22 @@ The dataset contains approximately 300,000 flight records and includes informati
 
 Dataset Columns
 
-Column| Description
-"airline"| Name of the airline
-"arrival_time"| Arrival time category or value
-"class"| Travel class
-"days_left"| Number of days remaining before departure
-"departure_time"| Departure time category or value
-"destination_city"| Destination city
-"duration"| Flight duration
-"flight"| Flight identifier or number
-"index"| Record index
-"price"| Flight ticket price
-"source_city"| Departure city
-"stops"| Number or category of stops
+
+| Column | Description |
+| :--- | :--- |
+| **index** | Record index |
+| **flight** | Flight identifier or number |
+| **airline** | Name of the airline |
+| **class** | Travel class |
+| **source_city** | Departure city |
+| **departure_time** | Departure time category or value |
+| **stops** | Number or category of stops |
+| **arrival_time** | Arrival time category or value |
+| **destination_city** | Destination city |
+| **duration** | Flight duration |
+| **days_left** | Number of days remaining before departure |
+| **price** | Flight ticket price |
+
 
 📊 Dashboard Preview
 
