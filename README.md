@@ -141,6 +141,8 @@ The project also demonstrates practical experience in transforming data into vis
 
 ---
 
-Project: Airline Flight Price Analysis Dashboard
-Primary Tool: Microsoft Power BI
-Dataset Size: Approximately 300,000 flight records
+---
+
+**Project:** Airline Flight Price Analysis Dashboard  
+**Tool:** Microsoft Power BI  
+**Dataset Size:** Approximately 300,000 flight records
