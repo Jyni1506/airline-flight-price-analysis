@@ -49,8 +49,22 @@ The dashboard provides a visual overview of flight pricing and travel characteri
 
 📈 Key Numerical Findings
 
-T![Airline Flight Analysis Dashboard](dashboard.png)
+Metric| Result
+Total flight records| Approximately 300,000
+Overall average ticket price| Approximately 20,890
+AirAsia average ticket price| Approximately 4,090*
+Average price — non-stop flights| 9,375.94
+Average price — one-stop flights| 22,900.99
+Average price — two or more stops| 14,113.45
 
+Key Insights
+
+- Non-stop flights recorded the lowest average ticket price among the three stop categories.
+- One-stop flights recorded the highest average ticket price.
+- Flights with two or more stops had an average price between the other two categories.
+- Ticket prices vary across flight categories, and other factors such as airline, route, and travel class may also contribute to these differences.
+
+Confirm that AirAsia's value represents its average ticket price, and specify the currency after verifying the dataset.
 <h5>Key Insights:</h5>
 
 - Non-stop flights: Recorded the lowest average ticket price among the three categories, at 9,375.94.
