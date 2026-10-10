@@ -57,7 +57,7 @@ Average price — non-stop flights| 9,375.94
 Average price — one-stop flights| 22,900.99
 Average price — two or more stops| 14,113.45
 
-Key Insights
+<h5>Key Insights:</h5>
 
 - Non-stop flights recorded the lowest average ticket price among the three stop categories.
 - One-stop flights recorded the highest average ticket price.
@@ -65,15 +65,6 @@ Key Insights
 - Ticket prices vary across flight categories, and other factors such as airline, route, and travel class may also contribute to these differences.
 
 Confirm that AirAsia's value represents its average ticket price, and specify the currency after verifying the dataset.
-<h5>Key Insights:</h5>
-
-- Non-stop flights: Recorded the lowest average ticket price among the three categories, at 9,375.94.
-- One-stop flights: Recorded the highest average ticket price, at 22,900.99.
-- Two or more stops: Recorded an average ticket price of 14,113.45, lower than the one-stop category but higher than non-stop flights.
-
-Interpretation: The results indicate that ticket prices do not necessarily increase with the number of stops. Other variables, including airline, route, travel class, and departure timing, may also contribute to price differences.
-
-These are observed associations in the dataset and do not establish that the number of stops directly causes a change in ticket price.
 
 5. Average Flight Duration
 
