@@ -1,4 +1,4 @@
-✈️ Airline Flight Price Analysis Dashboard
+<h2>✈️ Airline Flight Price Analysis Dashboard</h2>
 
 📌 Project Overview
 
